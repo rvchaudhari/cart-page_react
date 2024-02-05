@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cart-page_react/static/css/main.b2d04ed8.css",
+    "main.js": "/cart-page_react/static/js/main.729c8351.js",
+    "static/js/787.d4aba7ab.chunk.js": "/cart-page_react/static/js/787.d4aba7ab.chunk.js",
+    "static/media/rv_logo.jpg": "/cart-page_react/static/media/rv_logo.d0d6553cf4a1b3eb9119.jpg",
+    "index.html": "/cart-page_react/index.html",
+    "main.b2d04ed8.css.map": "/cart-page_react/static/css/main.b2d04ed8.css.map",
+    "main.729c8351.js.map": "/cart-page_react/static/js/main.729c8351.js.map",
+    "787.d4aba7ab.chunk.js.map": "/cart-page_react/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2d04ed8.css",
+    "static/js/main.729c8351.js"
+  ]
+}
